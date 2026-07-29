@@ -2,22 +2,22 @@
   "name": "公考学习助手",
   "short_name": "公考学习",
   "description": "公考备考一站式工作站 - 计划、打卡、积累、复盘、运动",
-  "start_url": "./index.html",
+  "start_url": "/gongkao-app/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#F1F8E9",
   "theme_color": "#43A047",
-  "scope": "./",
+  "scope": "/gongkao-app/",
   "lang": "zh-CN",
   "icons": [
     {
-      "src": "./icon-192.png",
+      "src": "/gongkao-app/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "./icon-512.png",
+      "src": "/gongkao-app/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
